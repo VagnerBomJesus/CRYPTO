@@ -1,0 +1,16 @@
+# Ficheiros objeto
+*.o
+
+# Executáveis
+vpn_server
+vpn_client
+udp_client
+udp_server
+
+# Lixo do sistema
+*~
+.DS_Store
+
+# Ficheiros temporários
+*.swp
+*.swo
