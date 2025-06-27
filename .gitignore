@@ -14,3 +14,26 @@ udp_server
 # Ficheiros temporários
 *.swp
 *.swo
+
+# Configurações do editor
+.vscode/
+
+# Ficheiros de log
+logs.txt
+
+# Dumps ou ficheiros core
+core
+core.*
+
+# Ficheiros de configuração ou dados sensíveis
+blockchain.txt
+config.txt
+users.txt
+
+# Scripts pessoais (se não queres versionar)
+compile.sh
+
+# Outros ficheiros temporários ou intermediários
+*.tmp
+*.bak
+*.old
